@@ -1,7 +1,7 @@
 ### NAME : TEJUSVE KABEER F
 ### REGISTER NO :212222100054
 ### EX. NO.4
-### DATE: 10.9.2024
+### DATE: 06.09.2024
 ### Implementation of Hidden Markov Model.
 ### Aim:
 Construct a Python code to find the sequence of hidden states by the known sequence of observances using Hidden Markov Model. Consider two hidden states Sunny and Rainy with observable states,happy and sad.
